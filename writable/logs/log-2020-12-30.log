@@ -1,0 +1,40 @@
+CRITICAL - 2020-12-30 21:11:27 --> Call to a member function database() on null
+#0 C:\xampp\htdocs\crud_ci4\app\Controllers\Product.php(15): App\Models\ProductModel->__construct()
+#1 C:\xampp\htdocs\crud_ci4\system\CodeIgniter.php(890): App\Controllers\Product->__construct()
+#2 C:\xampp\htdocs\crud_ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\crud_ci4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud_ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud_ci4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-12-30 21:13:50 --> Call to a member function database() on null
+#0 C:\xampp\htdocs\crud_ci4\app\Controllers\Product.php(15): App\Models\ProductModel->__construct()
+#1 C:\xampp\htdocs\crud_ci4\system\CodeIgniter.php(890): App\Controllers\Product->__construct()
+#2 C:\xampp\htdocs\crud_ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\crud_ci4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud_ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud_ci4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-12-30 21:13:52 --> Call to a member function database() on null
+#0 C:\xampp\htdocs\crud_ci4\app\Controllers\Product.php(15): App\Models\ProductModel->__construct()
+#1 C:\xampp\htdocs\crud_ci4\system\CodeIgniter.php(890): App\Controllers\Product->__construct()
+#2 C:\xampp\htdocs\crud_ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\crud_ci4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud_ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud_ci4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-12-30 21:17:28 --> Call to a member function database() on null
+#0 C:\xampp\htdocs\crud_ci4\app\Controllers\Product.php(15): App\Models\ProductModel->__construct()
+#1 C:\xampp\htdocs\crud_ci4\system\CodeIgniter.php(890): App\Controllers\Product->__construct()
+#2 C:\xampp\htdocs\crud_ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\crud_ci4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud_ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud_ci4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-12-30 21:21:15 --> Call to a member function database() on null
+#0 C:\xampp\htdocs\crud_ci4\app\Controllers\Product.php(15): App\Models\ProductModel->__construct()
+#1 C:\xampp\htdocs\crud_ci4\system\CodeIgniter.php(890): App\Controllers\Product->__construct()
+#2 C:\xampp\htdocs\crud_ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\crud_ci4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud_ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud_ci4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
